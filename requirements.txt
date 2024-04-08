@@ -1,6 +1,5 @@
-streamlit
-requests
-Pillow
+streamlit~=1.33.0
 skit-learn
-pandas
-matplotlib
+pandas~=2.2.1
+matplotlib~=3.8.3
+scikit-learn~=1.4.1.post1
